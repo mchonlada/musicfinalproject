@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:musicproject/pages/music/inmusicdetails.dart';
 
 class INMusicHome extends StatefulWidget {
@@ -17,85 +16,85 @@ class _INMusicHomeState extends State<INMusicHome> {
       songTitle: 'Best Part',
       artist: 'Daniel Caesar x H.E.R.',
       image: '25.jpg',
-      song: 'assets/25.mp3',
+      song: 'assets/sound/25.mp3',
     ),
     Song(
       songTitle: 'Day 1 ◑',
       artist: 'HONNE',
       image: '26.jpg',
-      song: 'assets/26.mp3',
+      song: 'assets/sound/26.mp3',
     ),
     Song(
       songTitle: 'I Love You 3000',
       artist: 'Stephanie Poetri',
       image: '27.jpg',
-      song: 'assets/27.mp3',
+      song: 'assets/sound/27.mp3',
     ),
     Song(
       songTitle: 'Constant',
       artist: 'Jesse Barrera & Jeremy Passion',
       image: '28.jpg',
-      song: 'assets/28.mp3',
+      song: 'assets/sound/28.mp3',
     ),
     Song(
       songTitle: 'Nothing',
       artist: 'Jeremy Passion',
       image: '29.jpg',
-      song: 'assets/29.mp3',
+      song: 'assets/sound/29.mp3',
     ),
     Song(
       songTitle: 'Last Christmas',
       artist: 'Ariana Grande',
       image: '30.jpg',
-      song: 'assets/30.mp3',
+      song: 'assets/sound/30.mp3',
     ),
     Song(
       songTitle: 'How Deep is Your Love',
       artist: 'Bee Gees',
       image: '31.jpg',
-      song: 'assets/31.mp3',
+      song: 'assets/sound/31.mp3',
     ),
     Song(
       songTitle: 'lowkey',
       artist: 'NIKI',
       image: '32.jpg',
-      song: 'assets/32.mp3',
+      song: 'assets/sound/32.mp3',
     ),
     Song(
       songTitle: 'Sunflower',
       artist: 'Sierra Burgess',
       image: '33.jpg',
-      song: 'assets/33.mp3',
+      song: 'assets/sound/33.mp3',
     ),
     Song(
       songTitle: 'FLOWER GARDEN',
       artist: 'RAVI',
       image: '34.jpg',
-      song: 'assets/34.mp3',
+      song: 'assets/sound/34.mp3',
     ),
     Song(
       songTitle: 'Everytime',
       artist: 'CHEN x Punch',
       image: '35.jpg',
-      song: 'assets/35.mp3',
+      song: 'assets/sound/35.mp3',
     ),
     Song(
       songTitle: 'This Love',
       artist: 'Davichi',
       image: '36.jpg',
-      song: 'assets/36.mp3',
+      song: 'assets/sound/36.mp3',
     ),
     Song(
       songTitle: 'Just Vibe',
       artist: 'Jeff Bernat',
       image: '37.jpg',
-      song: 'assets/37.mp3',
+      song: 'assets/sound/37.mp3',
     ),
     Song(
       songTitle: 'Still',
       artist: 'Jeff Bernat',
       image: '38.jpg',
-      song: 'assets/38.mp3',
+      song: 'assets/sound/38.mp3',
     ),
   ];
 
