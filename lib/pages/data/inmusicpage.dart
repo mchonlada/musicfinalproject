@@ -22,7 +22,7 @@ class _INMusicHomeState extends State<INMusicHome> {
       songTitle: 'Day 1 ◑',
       artist: 'HONNE',
       image: '26.jpg',
-      song: 'assets/sound/26.mp3',
+      song: 'assets/sound/26.mp3'
     ),
     Song(
       songTitle: 'I Love You 3000',
