@@ -18,7 +18,7 @@ class _MusicHomeState extends State<THMusicHome> {
       songTitle: 'กอดที (ONE HUG)',
       artist: 'Bright Vachirawit (ไบร์ท วชิรวิชญ์)',
       image: '1.jpg',
-      song: 'assets/sound/1.mp3',
+      song: 'https://www.mboxdrive.com/1.mp3',
 
     ),
     Song(
